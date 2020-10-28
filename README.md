@@ -49,3 +49,7 @@ npm init -y
 npm install mailgun-js openid-client
 node main.js
 ```
+
+## Known issue
+
+https://github.com/MONEI/Shopify-api-node/issues/406#issuecomment-678069541
